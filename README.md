@@ -23,7 +23,7 @@ For a step-by-step on setting up Codegrade see [this guide.](https://www.notion.
 ## Project Instructions
 
 ### Introduction
-
+TEST TEST TEST
 In this challenge you will create a web page that presents a styled list of characters obtained from an API. Being able to render out data to a web page is a large part of what JavaScript developers do, this challenge assesses your ability to achieve such a task.
 
 In meeting the minimum viable product (MVP) specifications listed below, your project might look somewhat similar to the solution examples below:
